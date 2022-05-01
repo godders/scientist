@@ -2,6 +2,8 @@
 
 A 4x12 ergonomic columnar stagger keyboard PCB for tray mount 60% cases.
 
+![Scientist Keyboard](pics/scientist-1.jpg)
+
 The design is heavily influenced by fantastic projects like Lumberjack, Discipline, Corne/Cornelius, Rebound, Reviung and many more, incorporating many of the ideas in one place (along with a couple of my own). I've been tweaking and refining this layout over several iterations both to optimise ergonomics as well as make sure it everything fits in a tray mount case. It's at the point where I've been confidently using it as my primary keyboard for several months and am excited for others to try it out!
 
 ## Features
@@ -21,11 +23,13 @@ The design is heavily influenced by fantastic projects like Lumberjack, Discipli
 
 The PCB layout supports two distinct plates. A universal layout that gives you the most flexibility:
 
-![pics/layout-universal.png]
+![Universal plate](pics/layout-universal.png)
 
 For those who are sure they want to use encoders on each side, there's a dedicated layout that moves the encoders into a better position to allow for the use of larger knobs (this is the variant you can see in most of my pictures):
 
-![pics/layout-knobs.png]
+![Knob-specific plate](pics/layout-knobs.png)
+
+## Encoders
 
 Just a quick word about the encoder positioning; I've had lots of questions about whether they get in the way of typing. I use my thumbs for the inner 6/7 keys on the bottom row, and my pinky for the outer two - this means the knob stays under my palm out of the way, and crucially the knobs can be actuated with my thumbs *without my fingers leaving the home row* (or with thumb and ring finger, while keeping my index finger on the home keys). This has been *huge* for me as it means I've been able to include their functions in my day to day typing without feeling like they're slowing me down. I highly recommend giving it a try.
 
