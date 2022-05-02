@@ -93,4 +93,3 @@ These are all things I've thought about and may appear in future versions:
  * Splay on the outer columns
  * Per-key RGB
  * Non through-hole/prebuilt version (once chip prices sort themselves out)
- * Custom case
