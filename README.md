@@ -1,6 +1,6 @@
 # Scientist
 
-A 4x12 ergonomic columnar stagger keyboard PCB for tray mount 60% cases.
+A 4x12 ergonomic columnar stagger keyboard PCB that fits 60% cases.
 
 ![Scientist Keyboard](pics/scientist-1.jpg)
 
@@ -33,7 +33,7 @@ For those who are sure they want to use encoders on each side, there's a dedicat
 
 ## Encoders
 
-Just a quick word about the encoder positioning; I've had lots of questions about whether they get in the way of typing. I use my thumbs for the inner 6/7 keys on the bottom row, and my pinky for the outer two - this means the knob stays under my palm out of the way, and crucially the knobs can be actuated with my thumbs *without my fingers leaving the home row* (or with thumb and ring finger, while keeping my index finger on the home keys). This has been *huge* for me as it means I've been able to include their functions in my day to day typing without feeling like they're slowing me down. I highly recommend giving it a try.
+Just a quick word about the encoder positioning: I've had lots of questions about whether they get in the way of typing. They don't! I use my thumbs for the inner 6/7 keys on the bottom row, and my pinky for the outer two - this means the knob stays under my palm out of the way, and crucially the knobs can be actuated with my thumbs *without my fingers leaving the home row*. This has been huge for me as it means I've been able to include knob functions in my day to day typing without feeling like they're slowing me down. I highly recommend giving it a try.
 
 ## Building
 
@@ -77,4 +77,4 @@ More detailed build guide coming!
 
 ## Case support
 
-The PCB should supports most 60% cases with Poker style tray mount points. It's been tested with Tofu60, Mekanisk Klippe T and Fjell cases and various generic 60% cases. It does *not* support cases with very thick (>5mm) fixed mounting posts in the two central mount point locations and may require kapton tape insulation (or o-ring mod) for some cases with >4mm mounting posts to prevent shorts. Does not support BBox60 cases without modification due to the many extra mount points present.
+The PCB should supports most 60% cases with Poker style tray mount points. It's been tested with Tofu60, Mekanisk Klippe T and Fjell cases and various generic 60% cases. It does *not* support cases with very thick (>5mm) fixed mounting posts in the two central mount point locations without modification, and may require kapton tape insulation (or o-ring mod) for some cases with >4mm mounting posts to prevent shorts. Does not support BBox60 cases without modification due to the many extra mount points present.
