@@ -87,7 +87,7 @@ The PCB should supports most 60% cases with Poker style tray mount points. It's 
 
 ## Future plans?
 
-These are all things I've thought about but discounted for this first iteration:
+These are all things I've thought about and may appear in future versions:
 
  * Splay on the outer columns
  * Per-key RGB
