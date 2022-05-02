@@ -4,6 +4,8 @@ A 4x12 ergonomic columnar stagger keyboard PCB that fits 60% cases.
 
 ![Scientist Keyboard](pics/scientist-1.jpg)
 
+[Imgur Gallery](https://imgur.com/a/xrHWU2O)
+
 The design is heavily influenced by fantastic projects like Lumberjack, Corne/Cornelius, Rebound, Discipline, Reviung and many more, incorporating many of the ideas in one place (along with a couple of my own). I've been tweaking and refining this layout over several iterations and prototypes both to optimise ergonomics as well as make sure it everything fits in a tray mount case. It's at the point where I've been confidently using it as my primary keyboard for several months and am excited for others to try it out!
 
 ## Features
