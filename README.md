@@ -3,6 +3,7 @@
 DIY 4x12 ergonomic columnar stagger keyboard PCB that fits 60% cases.
 
 ![Scientist Keyboard](pics/scientist-1.jpg)
+![Scientist Keyboard](pics/scientist-notion.jpg)
 
 [More pics in the prototype gallery](https://imgur.com/a/xrHWU2O)
 
