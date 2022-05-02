@@ -4,7 +4,9 @@ A 4x12 ergonomic columnar stagger keyboard PCB that fits 60% cases.
 
 ![Scientist Keyboard](pics/scientist-1.jpg)
 
-The design is heavily influenced by fantastic projects like Lumberjack, Corne/Cornelius, Rebound, Discipline, Reviung and many more, incorporating many of the ideas in one place (along with a couple of my own). I've been tweaking and refining this layout over several iterations and prototypes both to optimise ergonomics as well as make sure it everything fits in a tray mount case. It's at the point where I've been confidently using it as my primary keyboard for several months and am excited for others to try it out!
+[More pics in the prototype gallery](https://imgur.com/a/xrHWU2O)
+
+The design is heavily influenced by fantastic projects like Lumberjack, Corne/Cornelius, Rebound, Discipline, Reviung and many more, incorporating many of the ideas in one place (along with a couple of my own). I've been tweaking and refining this layout over several iterations and prototypes both to optimise ergonomics as well as add options and improve support for tray mount cases. It's at the point where it has taken over as my primary keyboard and I'm excited for others to try it out!
 
 ## Features
 
@@ -33,7 +35,9 @@ For those who are sure they want to use encoders on each side, there's a dedicat
 
 ## Encoders
 
-Just a quick word about the encoder positioning: I've had lots of questions about whether they get in the way of typing. They don't! I use my thumbs for the inner 6/7 keys on the bottom row, and my pinky for the outer two - this means the knob stays under my palm out of the way, and crucially the knobs can be actuated with my thumbs *without my fingers leaving the home row*. This has been huge for me as it means I've been able to include knob functions in my day to day typing without feeling like they're slowing me down. I highly recommend giving it a try.
+Just a quick word about the encoder positioning: I've had lots of questions about whether they get in the way of typing. They don't! I use my thumbs for the inner 6/7 keys on the bottom row, and my pinky for the outer two - this means the knob stays under my palm out of the way, and crucially the knobs can be actuated with my thumbs *without my fingers leaving the home row*. [Here's a video showing the movement](https://imgur.com/a/7S38ULE).
+
+This has been huge for me as it means I've been able to include knob functions in my day to day typing without feeling like they're slowing me down. I highly recommend giving it a try.
 
 ## Building
 
@@ -78,3 +82,12 @@ More detailed build guide coming!
 ## Case support
 
 The PCB should supports most 60% cases with Poker style tray mount points. It's been tested with Tofu60, Mekanisk Klippe T and Fjell cases and various generic 60% cases. It does *not* support cases with very thick (>5mm) fixed mounting posts in the two central mount point locations without modification, and may require kapton tape insulation (or o-ring mod) for some cases with >4mm mounting posts to prevent shorts. Does not support BBox60 cases without modification due to the many extra mount points present.
+
+## Future plans?
+
+These are all things I've thought about but discounted for this first iteration:
+
+ * Splay on the outer columns
+ * Per-key RGB
+ * Non through-hole/prebuilt version (once chip prices sort themselves out)
+ * Custom case
