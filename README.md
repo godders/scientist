@@ -35,7 +35,9 @@ For those who are sure they want to use encoders on each side, there's a dedicat
 
 ## Encoders
 
-Just a quick word about the encoder positioning: I've had lots of questions about whether they get in the way of typing. They don't! I use my thumbs for the inner 6/7 keys on the bottom row, and my pinky for the outer two - this means the knob stays under my palm out of the way, and crucially the knobs can be actuated with my thumbs *without my fingers leaving the home row*. This has been huge for me as it means I've been able to include knob functions in my day to day typing without feeling like they're slowing me down. I highly recommend giving it a try.
+Just a quick word about the encoder positioning: I've had lots of questions about whether they get in the way of typing. They don't! I use my thumbs for the inner 6/7 keys on the bottom row, and my pinky for the outer two - this means the knob stays under my palm out of the way, and crucially the knobs can be actuated with my thumbs *without my fingers leaving the home row*. [Here's a video showing the movement](https://imgur.com/a/7S38ULE).
+
+This has been huge for me as it means I've been able to include knob functions in my day to day typing without feeling like they're slowing me down. I highly recommend giving it a try.
 
 ## Building
 
