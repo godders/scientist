@@ -6,7 +6,7 @@ DIY 4x12 ergonomic columnar stagger keyboard PCB that fits 60% cases.
 
 [More pics in the prototype gallery](https://imgur.com/a/xrHWU2O)
 
-[Printable layout tester](../../raw/main/tester/scientist-layout-tester.pdf)
+[Printable layout tester (PDF)](../../raw/main/tester/scientist-layout-tester.pdf)
 
 The design is heavily influenced by fantastic projects like Lumberjack, Corne/Cornelius, Rebound, Discipline, Reviung and many more, incorporating many of the ideas in one place (along with a couple of my own). I've been tweaking and refining this layout over several iterations and prototypes both to optimise ergonomics as well as add options and improve support for tray mount cases. It's at the point where it has taken over as my primary keyboard and I'm excited for others to try it out!
 
