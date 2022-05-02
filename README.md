@@ -82,3 +82,12 @@ More detailed build guide coming!
 ## Case support
 
 The PCB should supports most 60% cases with Poker style tray mount points. It's been tested with Tofu60, Mekanisk Klippe T and Fjell cases and various generic 60% cases. It does *not* support cases with very thick (>5mm) fixed mounting posts in the two central mount point locations without modification, and may require kapton tape insulation (or o-ring mod) for some cases with >4mm mounting posts to prevent shorts. Does not support BBox60 cases without modification due to the many extra mount points present.
+
+## Future plans?
+
+These are all things I've thought about but discounted for this first iteration:
+
+ * Splay on the outer columns
+ * Per-key RGB
+ * Non through-hole/prebuilt version (once chip prices sort themselves out)
+ * Custom case
