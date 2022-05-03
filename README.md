@@ -19,7 +19,7 @@ The design is heavily influenced by fantastic projects like Lumberjack, Corne/Co
  * Corne/Reviung-like thumb key cluster
  * MX Hotswap sockets
  * Knob positions allows for actuation with thumbs without the fingers leaving the home row
- * Mostly through-hole construction for easy DIY construction (see below)
+ * Mostly through-hole components for easy DIY construction (see below)
  * Optional RGB Underglow
  * Optional support for up to 3 encoders (up to one each side and one in the centre)
  * Optional support for OLED instead of an encoder in the central position
